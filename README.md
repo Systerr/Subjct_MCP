@@ -14,7 +14,11 @@ We achieved **1st place in the MCP category** — [see the announcement on Linke
 
 ---
 
-![Morking with mcp from cline](assets/claude.png)
+Claude example with mcp server:
+![Working with mcp from claude](assets/claude.png)
+
+Cline example with mcp server (video)
+[▶️ Watch the demo](assets/clineDemo.mov)
 
 
 
