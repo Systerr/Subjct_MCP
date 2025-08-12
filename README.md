@@ -1,9 +1,21 @@
-# SUBJCT MCP Server
+# 🏆 MachineTalents Hackathon — Winning Project (July 2025)
 
-see : 
-* https://github.com/Systerr/Subjct_MCP
-* https://docs.google.com/document/d/1ap0IUbJMawF6KA_6MYG0ClZHlMLPTn2tcFXBfSFH1ck/edit?tab=t.0
-* https://lu.ma/ibaiz50k?tk=7YCgct
+This repository contains our **winning project** from the [MachineTalents Hackathon](https://lu.ma/ibaiz50k), held in July 2025.  
+
+We achieved **1st place in the MCP category** — [see the announcement on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7356811648583503872/).  
+
+---
+
+## 👥 Team
+
+- [Andrei Lahonou](https://www.linkedin.com/in/andrey-logunov/)  
+- [Raj P](https://www.linkedin.com/in/rajanpatel/)  
+- [Tom Nash](https://www.linkedin.com/in/tomnash01/)  
+
+---
+
+![Morking with mcp from cline](assets/claude.png)
+
 
 
 ## Objective
